@@ -1,2 +1,2 @@
 # rasputinRun
-Rasputin Run: The Mad Monk
+Game based off the story of Rasputin. Very epic.
